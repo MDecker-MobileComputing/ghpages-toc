@@ -1,2 +1,8 @@
 # ghpages-toc
-Repo contains list of all pages published with GitHub Pages by user MDecker-MobileComputing
+
+<br>
+
+This repo contains a list of all pages published via [GitHub Pages](https://pages.github.com/)
+by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComputing).
+
+<br>
