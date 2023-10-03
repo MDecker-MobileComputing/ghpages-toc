@@ -34,7 +34,7 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 | Datumsarithmetik | [Link](https://mdecker-mobilecomputing.github.io/HTML_Datumsarithmetik/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Datumsarithmetik/) |
 | Informatikerzitate | [Link](https://mdecker-mobilecomputing.github.io/HTML_InfoZitate/) | [Link](https://github.com/MDecker-MobileComputing/HTML_InfoZitate/) |
 
-jQuery Mobile is no longer supported, see [here](https://blog.jquerymobile.com/2021/10/07/jquery-maintainers-continue-modernization-initiative-with-deprecation-of-jquery-mobile/).
+*jQuery Mobile* is no longer supported, see [here](https://blog.jquerymobile.com/2021/10/07/jquery-maintainers-continue-modernization-initiative-with-deprecation-of-jquery-mobile/).
 
 <br>
 
