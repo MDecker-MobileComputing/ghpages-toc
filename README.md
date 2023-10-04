@@ -7,6 +7,15 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 
 <br>
 
+## Basic HTML ##
+
+| Name | GHPages URL | Repo URL  |
+| -----| ------------| --------- |
+| HTML Basic | [Link](https://mdecker-mobilecomputing.github.io/HTML_Grundlagen/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Grundlagen) |
+| HTML content to be put into hybrid Cordova/Capacitor container | [Link](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/) | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova) |
+
+<br>
+
 ## Bootstrap 4+5 ##
 
 | Name | GHPages URL | Repo URL  |
