@@ -51,7 +51,7 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 | Name | GHPages URL | Repo URL  |
 | -----| ------------| --------- |
 | Lottery Dice (PWA with Ionic) | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Lottozahlen/) | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) |
-| Custom icon set from Fontello | [Link](https://mdecker-mobilecomputing.github.io/CSS_Fontello-Demo/) | [Link](https://github.com/MDecker-MobileComputing/CSS_Fontello-Demo) |
+| Custom icon set from [Fontello](https://fontello.com/) | [Link](https://mdecker-mobilecomputing.github.io/CSS_Fontello-Demo/) | [Link](https://github.com/MDecker-MobileComputing/CSS_Fontello-Demo) |
 | Usage of Web component | [Link](https://mdecker-mobilecomputing.github.io/WebComponent_HalloName/) | [Link](https://github.com/MDecker-MobileComputing/WebComponent_HalloName) |
 | JSON in JavaScript | [Link](https://mdecker-mobilecomputing.github.io/HTML_JSON_in_JavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_JSON_in_JavaScript) |
 | Blinking effect with generic data attribute | [Link](https://mdecker-mobilecomputing.github.io/HTML_BlinkEffekt/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BlinkEffekt) |
