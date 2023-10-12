@@ -51,6 +51,7 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 
 | Name | GHPages URL | Repo URL  |
 | -----| ------------| --------- |
+| Web site generated with [Hexo](https://hexo.io/) | [Link](https://mdecker-mobilecomputing.github.io/Hexo-Demo/) | [Link](https://github.com/MDecker-MobileComputing/Hexo-Demo) |
 | Lottery Dice (PWA with Ionic) | [Link](https://mdecker-mobilecomputing.github.io/Ionic_Lottozahlen/) | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) |
 | Custom icon set from [Fontello](https://fontello.com/) | [Link](https://mdecker-mobilecomputing.github.io/CSS_Fontello-Demo/) | [Link](https://github.com/MDecker-MobileComputing/CSS_Fontello-Demo) |
 | Usage of Web component | [Link](https://mdecker-mobilecomputing.github.io/WebComponent_HalloName/) | [Link](https://github.com/MDecker-MobileComputing/WebComponent_HalloName) |
