@@ -34,7 +34,7 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 | -----| ------------| --------- |
 | Android Glossary with Bootstrap 4 | [Link](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/) | [Link](https://github.com/MDecker-MobileComputing/HTML_AndroidGlossarMitBootstrap) |
 | Apps with Bootstrap 4 & jQuery | [Link](https://mdecker-mobilecomputing.github.io/HTML_BootstrapUndJQuery/) | [Link](https://github.com/MDecker-MobileComputing/HTML_BootstrapUndJQuery) |
-| Apps with Bootstrap 5 (no custom JavaScript) | [Link](https://mdecker-mobilecomputing.github.io/HTML_Bootstrap5_NoJavaScript/) | [Link](https://github.com/MDecker-MobileComputing/TML_Bootstrap5_NoJavaScript/) |
+| Apps with Bootstrap 5 (no custom JavaScript) | [Link](https://mdecker-mobilecomputing.github.io/HTML_Bootstrap5_NoJavaScript/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Bootstrap5_NoJavaScript/) |
 
 <br>
 
