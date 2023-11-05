@@ -14,6 +14,7 @@ by GitHub user [MDecker-MobileComputing](https://github.com/MDecker-MobileComput
 | HTML Basic | [Link](https://mdecker-mobilecomputing.github.io/HTML_Grundlagen/) | [Link](https://github.com/MDecker-MobileComputing/HTML_Grundlagen) |
 | HTML Dummy Page | [Link](https://mdecker-mobilecomputing.github.io/HTML_HomePageDummy) | [Link](https://github.com/MDecker-MobileComputing/HTML_HomePageDummy) |
 | HTML content to be put into hybrid Cordova/Capacitor container | [Link](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/) | [Link](https://github.com/MDecker-MobileComputing/HTML_HalloCordova) |
+| HTML: MPA vs SPA | [Link](https://mdecker-mobilecomputing.github.io/HTML_MPA-vs-SPA/) | [Link](https://github.com/MDecker-MobileComputing/HTML_MPA-vs-SPA) | 
 
 <br>
 
